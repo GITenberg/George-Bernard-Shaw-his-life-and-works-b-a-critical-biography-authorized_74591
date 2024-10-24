@@ -1,0 +1,35 @@
+_repo: George-Bernard-Shaw-his-life-and-works-b-a-critical-biography-authorized_74591
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henderson, Archibald
+    birthdate: 1877
+    deathdate: 1963
+    gutenberg_agent_id: '890'
+    url: http://www.gutenberg.org/2009/agents/890
+    wikipedia: https://en.wikipedia.org/wiki/Archibald_Henderson_(professor)
+description: ''
+gutenberg_issued: '2024-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74591'
+  lccn: '11031884'
+language: en
+pgterms:marc904: https://archive.org/details/georgebernardsha01hend/page/4/mode/2up
+pgterms:marc905: 20210410134018henderson
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Andrés V. Galia, Thiers, Knysna and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aCincinnati :$bStewart & Kidd, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shaw, Bernard, 1856-1950'
+- !lcsh 'Shaw family'
+- !lcc 'PR'
+- GITenberg
+title: 'George Bernard Shaw, his life and works : $b a critical biography (authorized)'
+url: http://www.gutenberg.org/ebooks/74591
