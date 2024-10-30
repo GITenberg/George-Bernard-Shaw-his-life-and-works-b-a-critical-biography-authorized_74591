@@ -1,5 +1,8 @@
 _repo: George-Bernard-Shaw-his-life-and-works-b-a-critical-biography-authorized_74591
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74591-h/images/cover.jpg
 creator:
   author:
     agent_name: Henderson, Archibald
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/890
     wikipedia: https://en.wikipedia.org/wiki/Archibald_Henderson_(professor)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74591#George-Bernard-Shaw-his-life-and-works-b-a-critical-biography-authorized
 gutenberg_issued: '2024-10-16'
 gutenberg_type: Text
 identifiers:
